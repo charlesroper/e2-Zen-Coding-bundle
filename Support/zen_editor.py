@@ -10,7 +10,6 @@ High-level editor interface that communicates with e2 editor.
 import os
 import sys
 import zencoding.zen_core as zen
-#import subprocess
 import re
 import hessian
 
