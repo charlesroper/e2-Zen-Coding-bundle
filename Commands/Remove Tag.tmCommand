@@ -24,5 +24,7 @@ editor = ZenEditor()
 zen_coding.run_action('remove_tag', editor)</string>
         <key>scope</key>
         <string></string>
+        <key>keyEquivalent</key>
+        <string>@R</string>
     </dict>
 </plist>

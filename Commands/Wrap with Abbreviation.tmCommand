@@ -26,5 +26,7 @@ if abbr is not None:
 	zen_coding.run_action('wrap_with_abbreviation', editor, abbr)</string>
         <key>scope</key>
         <string></string>
+        <key>keyEquivalent</key>
+        <string>@h</string>
     </dict>
 </plist>

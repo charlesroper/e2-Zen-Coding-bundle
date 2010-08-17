@@ -24,5 +24,7 @@ editor = ZenEditor()
 zen_coding.run_action('merge_lines', editor)</string>
         <key>scope</key>
         <string></string>
+        <key>keyEquivalent</key>
+        <string>@M</string>
     </dict>
 </plist>

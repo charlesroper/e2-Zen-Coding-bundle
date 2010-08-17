@@ -24,5 +24,7 @@ editor = ZenEditor()
 zen_coding.run_action('toggle_comment', editor)</string>
         <key>scope</key>
         <string></string>
+        <key>keyEquivalent</key>
+        <string>@?</string>
     </dict>
 </plist>
